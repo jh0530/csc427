@@ -1,5 +1,10 @@
 # csc427
 
+ARTICLE:
+https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1244336/full
+
+
+
 PLAN LINKS
 
 Jake:
